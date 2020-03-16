@@ -1,0 +1,10 @@
+.backgroundclip {
+  background: url(img/page_404-1.jpg) -100px -40px no-repeat;
+  background-clip: text;
+
+}
+
+h1 {
+  color: orangered;
+  -webkit-text-fill-color: transparent;
+}
